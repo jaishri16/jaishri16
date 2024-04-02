@@ -1,8 +1,11 @@
-<h1 align="center">
-- 👋 hi, I'm Jaishree Balaji</h1>
-- 🌱 I’m currently learning Applied Data Analytics
+- 👋 Hi, **I'm Jaishree Balaji**
+
+- 🌱 I’m currently learning **Applied Data Analytics**
+
 - 💬 Interests: **Interests: food, consumer behavior, technology**
+
 - 📫 How to reach me **jaishribalaji16@gmai.com**
+
 - 💞️ **Thanks for checking out my profile!**
 
 <h3 align="left">Connect with me:</h3>
