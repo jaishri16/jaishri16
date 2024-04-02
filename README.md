@@ -4,7 +4,7 @@
 
 - 💬 Interests: **Interests: food, consumer behavior, technology**
 
-- 📫 How to reach me **jaishribalaji16@gmai.com**
+- 📫 How to reach me **jaishribalaji16@gmail.com**
 
 - 💞️ **Thanks for checking out my profile!**
 
