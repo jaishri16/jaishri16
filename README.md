@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaishree Balaji</h1>
+<h1 align="center">- Hi 👋, I'm Jaishree Balaji</h1>
 - 🌱 I’m currently learning **Applied Data Analytics**
 
 - 💬 Interests: **Interests: food, consumer behavior, technology**
