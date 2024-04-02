@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Applied Data Analytics**
 
-- 💬 Interests: **Interests: food, consumer behavior, technology**
+- 💬 Interests: ** food, consumer behavior, technology**
 
 - 📫 How to reach me **jaishribalaji16@gmail.com**
 
